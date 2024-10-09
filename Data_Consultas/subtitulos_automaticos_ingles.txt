@@ -1,0 +1,24 @@
+I found a trading strategy that profited 225%   in just 100 trades. Which means it s 
+one of the best trading strategies on   my channel so far. This is how you do it.
+Go to the indicators tab and type in ema,   and click this one right here, but make sure 
+you click it twice as we are going to need two.
+  Go to the setting of one and change 
+the length to 200 and make it blue.
+  The go to the settings of the other ema and 
+change the length to 50 and make it yellow.
+  Next, we are going to need an 
+indicator called trend meter. 
+  Keep the settings at default, 
+just uncheck this signals 1 box. 
+  Then finally, we need a volatility oscillator. 
+Here s the strategy.
+  First, the yellow line (the 50 ema) must 
+be above the blue line (the 200 ema).
+  Next, we need 4 green dots and 2 
+green lines on the trend meter.
+  To confirm the signal we need bullish volatility 
+in the market. So this white line need to be   heading upwards above this upper band. 
+If all the rules are met, enter a trade. 
+  Set your stop loss at the recent swing low, 
+and you are going to exit the position once   you get a red dot on this top line.
+So you would of exited here.
